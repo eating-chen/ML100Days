@@ -24,4 +24,5 @@ Part2 - NLP深度學習馬拉松
 * 注意力機制(Attention mechanism and Transformer)
 * 各種 NLP 預訓練模型(ELMo / Bert & More / 預訓練模型調參)
 * NLP 深度學習期末實務專題
+   * 新聞標題分類[[link](https://github.com/eating-chen/ML100Days/blob/main/homework/deep%20learning/bert_news_classifier.ipynb)]
 
